@@ -149,7 +149,7 @@ Composants :
 ## ▶️ 8. Installation & exécution
 ### 1. Cloner le dépôt
 ```
-git clone https://github.com/.../Restaurant_Ratings.git
+git clone https://github.com/HamzaNasr1/Restaurant-Data-Explorer.git
 ```
 
 ### 2. Lancer l’exploration
